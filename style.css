@@ -6,7 +6,7 @@ h1 {
 
 .navbar-brand
 {
-  
+  position: relative;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
   
 }
@@ -28,6 +28,7 @@ body{
   flex-direction: column;
 }
 footer{
+  height: fit-content;
   background-color:burlywood;
   margin-top: auto;
 }
