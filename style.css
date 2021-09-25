@@ -23,6 +23,7 @@ body
 }
 
 body{
+
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -32,3 +33,4 @@ footer{
   background-color:burlywood;
   margin-top: auto;
 }
+
