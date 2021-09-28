@@ -28,3 +28,9 @@ footer{
   background-color:burlywood;
   margin-top: auto;
 }
+h1
+{
+  padding: 1%;
+  height: 30%;
+  background-color: black;
+}
